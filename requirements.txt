@@ -1,0 +1,6 @@
+def main():
+    print("Welcome to GeoGuide AI!")
+    print("Your outdoor activity assistant is starting.")
+
+if _name_ == "_main_":
+    main()
